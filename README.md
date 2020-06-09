@@ -36,3 +36,4 @@ python tools/video_inpaint.py --frame_dir ./frames --MASK_ROOT ./masks --img_siz
 ```
 python tools/video_from_frames --image_folder ./Inpaint_Res/inpaint_res --video_name result.avi --fps 25
 ```
+### For more info look into `./description`
