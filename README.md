@@ -129,7 +129,7 @@ python tools/video_from_frames --image_folder ./Inpaint_Res/inpaint_res --video_
 
 ### Команда
 
--   [Медведев Владислав](https://github.com/AxekA13) (Tl)
+-   [Медведев Владислав](https://github.com/AxekA13) (Team lead)
 -   [Быков Сергей](https://github.com/sergey-byk0v)
 -   [Будько Мария](https://github.com/MarieBudko)
 -   [Горбунова Анастасия](https://github.com/anastasiagorbunovaso)
