@@ -92,7 +92,7 @@ DFC-S использует ResNet-50 в качестве основы.  ResNet-5
 
 -   [Медведев Владислав](https://github.com/AxekA13)
 -   [Быков Сергей](https://github.com/sergey-byk0v)
--   Будько Мария
+-   [Будько Мария](https://github.com/MarieBudko)
 -   [Горбунова Анастасия](https://github.com/anastasiagorbunovaso)
 -   [Данюк Артем](https://github.com/temp-rw)
 -   [Семенович Александр](https://github.com/AlexandrSemenovich)
