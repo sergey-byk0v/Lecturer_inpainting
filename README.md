@@ -1,6 +1,6 @@
 
 # Lecturer inpainting
-In this project ![Deep-Flow-Guided-Video-Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting) was used.
+In this project [Deep-Flow-Guided-Video-Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting) was used.
 
 ## Result
 ![](./gif_results/result.gif)
